@@ -8,7 +8,7 @@
     "start": "node dist/arrays.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "browserlists": "> 0.25%",
+  "browserslist": "> 0.25%",
   "keywords": [],
   "author": "",
   "license": "ISC",
